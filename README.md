@@ -1,6 +1,9 @@
 # Water Tandon
 
-![alt text][Pic]
+<img
+  src="https://raw.githubusercontent.com/adif-git/Water-Tandon/master/WaterTandon.png"
+  alt="Water Tandon Pic"
+/>
 
 ### **Description**
 
@@ -16,5 +19,3 @@ Conditions :
 ### **How it works**
 
 There are two sensors made of tin inside the cup which indicate different level of height and used for water level indicator. If tin solder soak in water, value of the resistance will be much higher than when it's dry. Resistance value will be picked up by OpAmp circuit and give high value (+5V) to the microcontroller to indicate water level in the container. Microcontroller give commands to turn on the LED which LED 1 indicate for water level on sensor 1 and LED 2 indicate for sensor 2.
-
-[Pic]:https://github.com/adif-git/Water-Tandon/blob/master/WaterTandon.png
