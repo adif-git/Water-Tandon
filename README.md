@@ -1,5 +1,3 @@
-# Water Tandon
-
 <img
   src="https://raw.githubusercontent.com/adif-git/Water-Tandon/master/WaterTandon.png"
   alt="Water Tandon Pic"
